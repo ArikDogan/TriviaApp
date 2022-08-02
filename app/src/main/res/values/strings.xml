@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TriviaAppMyMake</string>
+    <string name="title">TITLE</string>
+    <string name="Title">Trivia</string>
+    <string name="questionCounter">Question : 5/10</string>
+    <string name="prevButton">PREV</string>
+    <string name="nextButton">NEXT</string>
+    <string name="trueButton">TRUE</string>
+    <string name="falseButton">FALSE</string>
+    <string name="FinishTheGame">Finish The Game</string>
+    <string name="goToEnd">GO TO END</string>
+    <string name="seeResults">See Results</string>
+    <string name="results">RESULTS</string>
+    <string name="questionTrue">80% of the question answered correctly</string>
+    <string name="under25">You Are Too Bad At This</string>
+    <string name="under50">You Have To Work On It</string>
+    <string name="under75">Very Well</string>
+    <string name="under100">You Are Awesome</string>
+    <string name="TriviaDescription">"Welcome to the trivia question app there will be some questions about America History you should be answer them carefully, there will be total 913 question. When you reach to the last question you can get your results. "</string>
+    <string name="goodLuck">Good Luck</string>
+    <string name="start">START</string>
+    <string name="tryAgain">Try Again</string>
+    <string name="scoreValue">Score : 91300</string>
+    <string name="score">Score : %d</string>
+    <string name="highestScore">Highest Score : XXXX</string>
+    <string name="YourScore">Your Score : XXXX</string>
+</resources>
